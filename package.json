@@ -1,8 +1,11 @@
 {
   "private": true,
+  "name":"umi3-base",
   "author":"oliver_lou <oliver_lou@163.com>",
   "decription":"umi3-base",
   "version":"0.0.1",
+  "main": "./index.js",
+  "license": "MIT",
   "scripts": {
     "start": "umi dev",
     "build": "umi build",
