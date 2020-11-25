@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "name":"umi3-base",
   "author":"oliver_lou <oliver_lou@163.com>",
   "decription":"umi3-base",
